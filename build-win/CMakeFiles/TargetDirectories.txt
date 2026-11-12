@@ -1,0 +1,3 @@
+/mnt/d/workspace/perdolinque/qwenmaxxing/anonfm_vsrat_reader_glmaya/build-win/CMakeFiles/anonfm.dir
+/mnt/d/workspace/perdolinque/qwenmaxxing/anonfm_vsrat_reader_glmaya/build-win/CMakeFiles/edit_cache.dir
+/mnt/d/workspace/perdolinque/qwenmaxxing/anonfm_vsrat_reader_glmaya/build-win/CMakeFiles/rebuild_cache.dir
